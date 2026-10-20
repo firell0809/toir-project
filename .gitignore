@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+*.suo
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Логи
+logs/
+*.log
+
+# Окружение
+.env
+appsettings.Development.local.json
+
+# Postgres
+*.dump
