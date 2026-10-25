@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toir.Shared", "backend\Toir
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToirApiPlayground", "backend\ToirApiPlayground\ToirApiPlayground.csproj", "{3BF284C4-4141-495B-A26C-EDB317CFC2FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToirApi", "backend\ToirApi\ToirApi.csproj", "{70698334-B3B8-4005-B829-7D529B184FDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,18 @@ Global
 		{3BF284C4-4141-495B-A26C-EDB317CFC2FB}.Release|x64.Build.0 = Release|Any CPU
 		{3BF284C4-4141-495B-A26C-EDB317CFC2FB}.Release|x86.ActiveCfg = Release|Any CPU
 		{3BF284C4-4141-495B-A26C-EDB317CFC2FB}.Release|x86.Build.0 = Release|Any CPU
+		{70698334-B3B8-4005-B829-7D529B184FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70698334-B3B8-4005-B829-7D529B184FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70698334-B3B8-4005-B829-7D529B184FDD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{70698334-B3B8-4005-B829-7D529B184FDD}.Debug|x64.Build.0 = Debug|Any CPU
+		{70698334-B3B8-4005-B829-7D529B184FDD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{70698334-B3B8-4005-B829-7D529B184FDD}.Debug|x86.Build.0 = Debug|Any CPU
+		{70698334-B3B8-4005-B829-7D529B184FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70698334-B3B8-4005-B829-7D529B184FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70698334-B3B8-4005-B829-7D529B184FDD}.Release|x64.ActiveCfg = Release|Any CPU
+		{70698334-B3B8-4005-B829-7D529B184FDD}.Release|x64.Build.0 = Release|Any CPU
+		{70698334-B3B8-4005-B829-7D529B184FDD}.Release|x86.ActiveCfg = Release|Any CPU
+		{70698334-B3B8-4005-B829-7D529B184FDD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,5 +64,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{9F513B06-01D9-479E-ACFA-4344E7D4A2B9} = {1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}
 		{3BF284C4-4141-495B-A26C-EDB317CFC2FB} = {1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}
+		{70698334-B3B8-4005-B829-7D529B184FDD} = {1AE8ACA6-933B-BF2A-3671-3E2EAC007D16}
 	EndGlobalSection
 EndGlobal
